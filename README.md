@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 Lucian here
 
 - 🔭 I’m currently working on surviving while getting things done
@@ -7,4 +7,4 @@ Lucian here
 - 🤔 I’m looking for help with anything related to Machine Learning
 - 💬 Ask me about ... anything! (really :D)
 - 📫 How to reach me: @luci.grigore99@gmail.com
-- ⚡ Fun fact: Computer Science field grows by 16% each year, more than any other!
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
