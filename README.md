@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on surviving while getting things done
 - 🌱 I’m currently learning Computer Science
 
+# Here's some of my work:
+
 ### Relevant undergraduate courses:
 - [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
 - [Numeric Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
