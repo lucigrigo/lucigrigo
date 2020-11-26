@@ -2,7 +2,7 @@
 *Lucian here*
 
 - 🔭 I’m currently working on surviving while getting things done
-- 🌱 I’m currently learning Computer Science (this is what I want to get done:D)
+- 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
 
 
 *Here's some of my work:*
