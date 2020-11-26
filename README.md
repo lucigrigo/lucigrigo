@@ -20,7 +20,7 @@
 - [Simplified text editor](https://github.com/lucigrigo/University/tree/master/1st%20Year/PC%20-%20Computer%20Programming%20-%20C/Tema2.FormatareText/tema2_cb) - C
 - [Maximum flow problem](https://github.com/lucigrigo/University/blob/master/1st%20Year/SD%20-%20Data%20Structures/Tema3/checkert3_v3/tema3.c) - C
 
-### Coursera Courses:
+### Coursera courses:
 - DeepLearning.AI TensorFlow Developer
     - Course 1 : [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/lucigrigo/CourseraCourses/tree/main/DeepLearning.AI%20Tensorflow%20Developer/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
 
