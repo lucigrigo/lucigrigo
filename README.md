@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on surviving while getting things done
 - 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
 
+*What I'm up to right now:*
+[EfficientNet with TFRecords - Cassava Leaf Disease](https://github.com/lucigrigo/practice-makes-perfect/blob/main/MachineLearning/Cassava%20Leaf%20Disease%20Competition/efficientnet-with-tfrecords-cassava-leaf-disease.ipynb)
 
 *Here's some of my work:*
 ### Relevant undergraduate courses:
