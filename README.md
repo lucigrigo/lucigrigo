@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
 
 *What I'm up to right now:*
-[EfficientNet with TFRecords - Cassava Leaf Disease](https://github.com/lucigrigo/practice-makes-perfect/blob/main/MachineLearning/Cassava%20Leaf%20Disease%20Competition/efficientnet-with-tfrecords-cassava-leaf-disease.ipynb)
+[EfficientNet - Cassava Leaf Disease](https://github.com/lucigrigo/practice-makes-perfect/blob/main/MachineLearning/Cassava%20Leaf%20Disease%20Competition/efficientnet-with-tfrecords-cassava-leaf-disease.ipynb)
 
 *Here's some of my work:*
 ### Relevant undergraduate courses:
@@ -21,6 +21,10 @@
 - [Educative program about fractals](https://github.com/lucigrigo/CSharpProjects/tree/main/C%23Projects/Fractali) - C#
 - [Simplified text editor](https://github.com/lucigrigo/University/tree/master/1st%20Year/PC%20-%20Computer%20Programming%20-%20C/Tema2.FormatareText/tema2_cb) - C
 - [Maximum flow problem](https://github.com/lucigrigo/University/blob/master/1st%20Year/SD%20-%20Data%20Structures/Tema3/checkert3_v3/tema3.c) - C
+
+### Machine Learning notebooks:
+- [95% Accuracy CNN on Chest X-Rays](https://www.kaggle.com/grigorelucian/95-accuracy-cnn-on-chest-x-rays)
+- [Titanic Competition - 98.3% accuracy](https://www.kaggle.com/grigorelucian/titanic-competition-98-3-accuracy)
 
 ### Coursera courses:
 - DeepLearning.AI TensorFlow Developer
