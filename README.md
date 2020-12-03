@@ -25,6 +25,7 @@
 ### Machine Learning notebooks:
 - [95% Accuracy CNN on Chest X-Rays](https://www.kaggle.com/grigorelucian/95-accuracy-cnn-on-chest-x-rays)
 - [Titanic Competition - 98.3% accuracy](https://www.kaggle.com/grigorelucian/titanic-competition-98-3-accuracy)
+- [AutoEncoder for a Movie Recommender System](https://www.kaggle.com/grigorelucian/autoencoder-for-a-movie-recommender-system)
 
 ### Coursera courses:
 - DeepLearning.AI TensorFlow Developer
