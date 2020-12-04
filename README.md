@@ -8,12 +8,6 @@
 [EfficientNet - Cassava Leaf Disease](https://github.com/lucigrigo/practice-makes-perfect/blob/main/MachineLearning/Cassava%20Leaf%20Disease%20Competition/efficientnet-with-tfrecords-cassava-leaf-disease.ipynb)
 
 *Here's some of my work:*
-### Relevant undergraduate courses:
-- [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
-- [Numeric Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
-- [Object-Oriented Programming](https://github.com/lucigrigo/University/tree/master/2nd%20Year/POO%20-%20Object-Oriented%20Programming)
-- [Parallel and Distributed Programming](https://github.com/lucigrigo/University/tree/master/3rd%20Year/APD%20-%20Parallel%20and%20Distributed%20Algorithms)
-
 ### Projects:
 - [Facial recognition program](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods/Tema2/checker%20Moodle) - Matlab
 - [MMORPG Game](https://github.com/lucigrigo/League-of-OOP) - Java
@@ -26,6 +20,12 @@
 - [95% Accuracy CNN on Chest X-Rays](https://www.kaggle.com/grigorelucian/95-accuracy-cnn-on-chest-x-rays)
 - [Titanic Competition - 98.3% accuracy](https://www.kaggle.com/grigorelucian/titanic-competition-98-3-accuracy)
 - [AutoEncoder for a Movie Recommender System](https://www.kaggle.com/grigorelucian/autoencoder-for-a-movie-recommender-system)
+
+### Relevant undergraduate courses:
+- [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
+- [Numeric Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
+- [Object-Oriented Programming](https://github.com/lucigrigo/University/tree/master/2nd%20Year/POO%20-%20Object-Oriented%20Programming)
+- [Parallel and Distributed Programming](https://github.com/lucigrigo/University/tree/master/3rd%20Year/APD%20-%20Parallel%20and%20Distributed%20Algorithms)
 
 ### Coursera courses:
 - DeepLearning.AI TensorFlow Developer
