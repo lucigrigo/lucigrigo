@@ -21,6 +21,9 @@
 - [Titanic Competition - 98.3% accuracy](https://www.kaggle.com/grigorelucian/titanic-competition-98-3-accuracy)
 - [AutoEncoder for a Movie Recommender System](https://www.kaggle.com/grigorelucian/autoencoder-for-a-movie-recommender-system)
 
+### Hackatons:
+- [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall I 2020
+
 ### Relevant undergraduate courses:
 - [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
 - [Numeric Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
