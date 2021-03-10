@@ -21,7 +21,7 @@
 - [95% Accuracy CNN on Chest X-Rays](https://www.kaggle.com/grigorelucian/95-accuracy-cnn-on-chest-x-rays)
 - [Titanic Competition - 98.3% accuracy](https://www.kaggle.com/grigorelucian/titanic-competition-98-3-accuracy)
 - [AutoEncoder for a Movie Recommender System](https://www.kaggle.com/grigorelucian/autoencoder-for-a-movie-recommender-system)
-- [EfficientNet - Cassava Leaf Disease](https://github.com/lucigrigo/practice-makes-perfect/blob/main/MachineLearning/Cassava%20Leaf%20Disease%20Competition/efficientnet-with-tfrecords-cassava-leaf-disease.ipynb)
+- [EfficientNet - Cassava Leaf Disease](https://www.kaggle.com/grigorelucian/efficientnet-cassava-leaf-disease)
 
 ### Hackatons:
 - [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall hackaton - December 2020
