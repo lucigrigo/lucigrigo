@@ -28,9 +28,14 @@
 
 ### Relevant undergraduate courses:
 - [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
-- [Numeric Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
+- [Algorithm Design](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PA%20-%20Algorithm%20Design)
+- [Numerical Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
 - [Object-Oriented Programming](https://github.com/lucigrigo/University/tree/master/2nd%20Year/POO%20-%20Object-Oriented%20Programming)
+- [Protocols of Communication](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PCom%20-%20Communication%20Protocols)
+- [Programming Paradigms](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PP%20-%20Programming%20Paradigms)
 - [Parallel and Distributed Programming](https://github.com/lucigrigo/University/tree/master/3rd%20Year/APD%20-%20Parallel%20and%20Distributed%20Algorithms)
+- [Databases I](https://github.com/lucigrigo/University/tree/master/3rd%20Year/BD%20-%20Databases%201)
+- [Computer Graphics](https://github.com/lucigrigo/University/tree/master/3rd%20Year/EGC%20-%20Computer%20Graphics/LabFramework/Framework-EGC-withrendertext/Source/Laboratoare)
 
 ### Coursera courses:
 - DeepLearning.AI TensorFlow Developer
