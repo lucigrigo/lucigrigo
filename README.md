@@ -11,10 +11,11 @@
 - [Facial recognition program](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods/Tema2/checker%20Moodle) - Matlab
 - [MMORPG Game](https://github.com/lucigrigo/League-of-OOP) - Java
 - [ICMP & IP Router](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PCom%20-%20Communication%20Protocols/Tema1%20-%20Router/varianta_finala) - C
-- [Bow and Arrow game](https://github.com/lucigrigo/University/tree/master/3rd%20Year/EGC%20-%20Computer%20Graphics/Framework-EGC-master/Source/Laboratoare/Tema1) - C, OpenGL
+- [Bow and Arrow game](https://github.com/lucigrigo/University/tree/master/3rd%20Year/EGC%20-%20Computer%20Graphics/LabFramework/Framework-EGC-master/Source/Laboratoare/Tema1) - C, OpenGL, Visual Studio
+- [Basic Temple Run-like game](https://github.com/lucigrigo/University/tree/master/3rd%20Year/EGC%20-%20Computer%20Graphics/LabFramework/Framework-EGC-withrendertext/Source/Laboratoare/Tema3) - C, OpenGL, Visual Studio
 - [Educative program about fractals](https://github.com/lucigrigo/CSharpProjects/tree/main/C%23Projects/Fractali) - C#
 - [Simplified text editor](https://github.com/lucigrigo/University/tree/master/1st%20Year/PC%20-%20Computer%20Programming%20-%20C/Tema2.FormatareText/tema2_cb) - C
-- [Maximum flow problem](https://github.com/lucigrigo/University/blob/master/1st%20Year/SD%20-%20Data%20Structures/Tema3/checkert3_v3/tema3.c) - C
+- [Real-life maximum flow problem](https://github.com/lucigrigo/University/blob/master/1st%20Year/SD%20-%20Data%20Structures/Tema3/checkert3_v3/tema3.c) - C
 
 ### Machine Learning notebooks:
 - [95% Accuracy CNN on Chest X-Rays](https://www.kaggle.com/grigorelucian/95-accuracy-cnn-on-chest-x-rays)
