@@ -49,5 +49,6 @@
 - [Deep Learning A-Z](https://github.com/lucigrigo/UdemyCourses/tree/master/DeepLearningA-ZUDEMY)
 
 ### Spare-time coding:
-- Practicing [competitive programming](https://github.com/lucigrigo/practice-makes-perfect/tree/main/TestSources/C%2B%2B) from competitions such as Google Kickstart
+- Taking part in coding competitions, hosted by Google or Codeforces
+- Practicing [competitive programming](https://github.com/lucigrigo/practice-makes-perfect/tree/main/TestSources/C%2B%2B) from competitions such as Google Kickstart or CodeJam
 - Solving [Machine Learning competitions](https://github.com/lucigrigo/practice-makes-perfect/tree/main/MachineLearning) on Kaggle
