@@ -7,7 +7,12 @@
 *What I'm up to right now:* random ML notebooks for now...
 
 *Here's some of my work:*
-### Projects:
+### Projects & Relevant Homework:
+- [STDIO library - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/2.STDIO%20library)
+- [Executable Loader - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/3.Executable%20loader)
+- [Thread Scheduler - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/4.Thread%20Scheduler)
+- Hotel bookings management app implemented in Java, using Spring, Lombok, and with frontend using React Native
+- [Hashtable implemented for CUDA GPUs](https://github.com/lucigrigo/University/tree/master/3rd%20Year/ASC%20-%20Computing%20Systems%20Architecture/Homework/Tema3)
 - [Facial recognition program](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods/Tema2/checker%20Moodle) - Matlab
 - [MMORPG Game](https://github.com/lucigrigo/League-of-OOP) - Java
 - [ICMP & IP Router](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PCom%20-%20Communication%20Protocols/Tema1%20-%20Router/varianta_finala) - C
@@ -27,6 +32,8 @@
 - [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall hackaton - December 2020
 
 ### Relevant undergraduate courses:
+- [Operating Systems](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems)
+- [Computer Systems Architecture](https://github.com/lucigrigo/University/tree/master/3rd%20Year/ASC%20-%20Computing%20Systems%20Architecture)
 - [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
 - [Algorithm Design](https://github.com/lucigrigo/University/tree/master/2nd%20Year/PA%20-%20Algorithm%20Design)
 - [Numerical Methods](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods)
