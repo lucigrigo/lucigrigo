@@ -11,7 +11,7 @@
 - [STDIO library - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/2.STDIO%20library) - C
 - [Executable Loader - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/3.Executable%20loader) - C
 - [Thread Scheduler - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/4.Thread%20Scheduler) - C
-- Hotel bookings management app - Java, Spring, Lombok, React Native
+- Hotel bookings management app - Java, Spring, Lombok, React Native, Firestore
 - [Hashtable implemented for CUDA GPUs](https://github.com/lucigrigo/University/tree/master/3rd%20Year/ASC%20-%20Computing%20Systems%20Architecture/Homework/Tema3)
 - [Facial recognition program](https://github.com/lucigrigo/University/tree/master/1st%20Year/MN%20-%20Numeric%20Methods/Tema2/checker%20Moodle) - Matlab
 - [MMORPG Game](https://github.com/lucigrigo/League-of-OOP) - Java
