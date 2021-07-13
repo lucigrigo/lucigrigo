@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on surviving while getting things done
 - 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
 
-*What I'm up to right now:* random ML notebooks for now...
+*What I'm up to right now:* learning ML and doing my best to make my work as signifiant as possible
 
 *Here's some of my work:*
 ### Projects & Relevant Homework:
@@ -56,6 +56,7 @@
 - [Deep Learning A-Z](https://github.com/lucigrigo/UdemyCourses/tree/master/DeepLearningA-ZUDEMY)
 
 ### Spare-time coding:
+- Mainly learning any ML-related information
 - Taking part in coding competitions, hosted by Google or Codeforces
 - Practicing [competitive programming](https://github.com/lucigrigo/practice-makes-perfect/tree/main/TestSources/C%2B%2B) from competitions such as Google Kickstart or CodeJam
 - Solving [Machine Learning competitions](https://github.com/lucigrigo/practice-makes-perfect/tree/main/MachineLearning) on Kaggle
