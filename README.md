@@ -7,7 +7,7 @@
 *What I'm up to right now:* learning ML and doing my best to make my work as signifiant as possible
 
 *Here's some of my work:*
-### Projects & Relevant Homework:
+### Projects & relevant homework:
 - [STDIO library - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/2.STDIO%20library) - C
 - [Executable Loader - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/3.Executable%20loader) - C
 - [Thread Scheduler - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/4.Thread%20Scheduler) - C
