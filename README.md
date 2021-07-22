@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on surviving while getting things done
 - 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
 
-*What I'm up to right now:* learning ML and doing my best to make my work as signifiant as possible
+*What I'm up to right now:* doing my best to make my work as signifiant as possible
 
 *Here's some of my work:*
 ### Projects & relevant homework:
