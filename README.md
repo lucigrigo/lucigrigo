@@ -29,7 +29,7 @@
 - [EfficientNet - Cassava Leaf Disease](https://www.kaggle.com/grigorelucian/efficientnet-cassava-leaf-disease)
 
 ### Hackatons:
-- [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall hackaton - December 2020
+- [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall hackaton by BCR - December 2020
 
 ### Relevant undergraduate courses:
 - [Operating Systems](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems)
