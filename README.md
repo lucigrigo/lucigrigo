@@ -1,13 +1,11 @@
 ### Hi 👋
 *Lucian here*
 
-- 🔭 I’m currently working on surviving while getting things done
-- 🌱 I’m currently learning Computer Science (this is what I want to get done :smirk:)
-
 *What I'm up to right now:* doing my best to make my work as signifiant as possible
 
 *Here's some of my work:*
 ### Projects & relevant homework:
+- [State-space and Arc-consistency Analysis](https://github.com/lucigrigo/University/blob/master/4th%20Year/IA%20-%20Artificial%20Intelligence/Homework/Tema1%20IA/tema1.ipynb)
 - [STDIO library - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/2.STDIO%20library) - C
 - [Executable Loader - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/3.Executable%20loader) - C
 - [Thread Scheduler - SO](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems/Homework/4.Thread%20Scheduler) - C
@@ -29,9 +27,12 @@
 - [EfficientNet - Cassava Leaf Disease](https://www.kaggle.com/grigorelucian/efficientnet-cassava-leaf-disease)
 
 ### Hackatons:
+- [SoftLink](https://github.com/lucigrigo/HackITall2021) - winner app of HackITall by Deutsche Bank - December 2021
 - [AmibApp](https://github.com/lucigrigo/HackITall2020) for HackITall by BCR - December 2020
 
 ### Relevant undergraduate courses:
+- [Artificial Intelligence](https://github.com/lucigrigo/University/tree/master/4th%20Year/IA%20-%20Artificial%20Intelligence)
+- [Network Design and Data Science](https://github.com/lucigrigo/University/tree/master/4th%20Year/PR%20-%20Network%20Design)
 - [Operating Systems](https://github.com/lucigrigo/University/tree/master/3rd%20Year/SO%20-%20Operating%20Systems)
 - [Computer Systems Architecture](https://github.com/lucigrigo/University/tree/master/3rd%20Year/ASC%20-%20Computing%20Systems%20Architecture)
 - [Data Structures](https://github.com/lucigrigo/University/tree/master/1st%20Year/SD%20-%20Data%20Structures)
